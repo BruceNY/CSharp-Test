@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{C0F8A1B1-915C-4752-A656-34C655A211D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AESCryptoTest/Program.cs">
+    <Files>
+      <File FileName="AESCryptoTest/Program.cs" Line="71" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/DarkKnight722/Projects/AESCryptoTest/AESCryptoTest/Program.cs" relfile="AESCryptoTest/Program.cs" line="69" column="1" />
+      <Breakpoint file="/Users/DarkKnight722/Projects/AESCryptoTest/AESCryptoTest/Program.cs" relfile="AESCryptoTest/Program.cs" line="116" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AESCryptoTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../AESCryptoTest/Program.cs" line="61" offsetX="640" offsetY="777" expression="msEncrypt" liveUpdate="False" />
+    <Watch file="../../../AESCryptoTest/Program.cs" line="69" offsetX="655" offsetY="1033" expression="plainText" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>
